@@ -15,6 +15,6 @@ def my_collect(students)
   mod_students
 end
 #hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}" }
-my_collect(students) do |student|
-  student.split(" ").first
-end
+# my_collect(students) do |student|
+#   student.split(" ").first
+# end
